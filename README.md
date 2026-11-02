@@ -23,7 +23,7 @@
         </a>
       </td>
       <td align="center">
-        <a href="https://www.linkedin.com/in/nayem2004/" target="_blank">
+        <a href="https://www.linkedin.com/in/devabunayem/" target="_blank">
           <img src="https://img.shields.io/badge/LINKEDIN-Abu%20Nayem-090D16?style=for-the-badge&logo=linkedin&logoColor=60A5FA&labelColor=131A2B" alt="LinkedIn" />
         </a>
       </td>
@@ -186,7 +186,7 @@ With deep expertise spanning modern JavaScript, React 19, Next.js 15, Python, an
         <b>Tech Stack:</b> <code>Python</code> <code>LangChain</code> <code>Tool Calling</code> <code>FastAPI</code>
       </p>
       <p>
-        <a href="https://github.com/abunayem04" target="_blank">
+        <a href="https://github.com/devabunayem" target="_blank">
           <img src="https://img.shields.io/badge/Explore%20Code%20➔-090D16?style=for-the-badge&logo=github&logoColor=38BDF8&labelColor=131A2B" alt="Repo" />
         </a>
       </p>
@@ -205,7 +205,7 @@ With deep expertise spanning modern JavaScript, React 19, Next.js 15, Python, an
         <b>Tech Stack:</b> <code>Next.js 15</code> <code>React 19</code> <code>TypeScript</code> <code>Tailwind</code>
       </p>
       <p>
-        <a href="https://github.com/abunayem04" target="_blank">
+        <a href="https://github.com/devabunayem" target="_blank">
           <img src="https://img.shields.io/badge/Explore%20Code%20➔-090D16?style=for-the-badge&logo=github&logoColor=38BDF8&labelColor=131A2B" alt="Repo" />
         </a>
       </p>
@@ -226,7 +226,7 @@ With deep expertise spanning modern JavaScript, React 19, Next.js 15, Python, an
         <b>Tech Stack:</b> <code>TypeScript</code> <code>Vector DB</code> <code>FastAPI</code> <code>OpenAI</code>
       </p>
       <p>
-        <a href="https://github.com/abunayem04" target="_blank">
+        <a href="https://github.com/devabunayem" target="_blank">
           <img src="https://img.shields.io/badge/Explore%20Code%20➔-090D16?style=for-the-badge&logo=github&logoColor=38BDF8&labelColor=131A2B" alt="Repo" />
         </a>
       </p>
@@ -245,7 +245,7 @@ With deep expertise spanning modern JavaScript, React 19, Next.js 15, Python, an
         <b>Tech Stack:</b> <code>Node.js</code> <code>Python</code> <code>Cron Workers</code> <code>REST APIs</code>
       </p>
       <p>
-        <a href="https://github.com/abunayem04" target="_blank">
+        <a href="https://github.com/devabunayem" target="_blank">
           <img src="https://img.shields.io/badge/Explore%20Code%20➔-090D16?style=for-the-badge&logo=github&logoColor=38BDF8&labelColor=131A2B" alt="Repo" />
         </a>
       </p>
@@ -266,7 +266,7 @@ With deep expertise spanning modern JavaScript, React 19, Next.js 15, Python, an
         <b>Tech Stack:</b> <code>HTML5</code> <code>Semantic Markup</code> <code>Native Forms</code> <code>Tables</code>
       </p>
       <p>
-        <a href="https://github.com/abunayem04/NX-resturent" target="_blank">
+        <a href="https://github.com/devabunayem/NX-resturent" target="_blank">
           <img src="https://img.shields.io/badge/View%20Repository%20➔-090D16?style=for-the-badge&logo=github&logoColor=38BDF8&labelColor=131A2B" alt="Repo" />
         </a>
       </p>
@@ -285,7 +285,7 @@ With deep expertise spanning modern JavaScript, React 19, Next.js 15, Python, an
         <b>Tech Stack:</b> <code>HTML5</code> <code>CSS3</code> <code>Flexbox</code> <code>Google Fonts</code>
       </p>
       <p>
-        <a href="https://github.com/abunayem04/first-portfolio-" target="_blank">
+        <a href="https://github.com/devabunayem/first-portfolio-" target="_blank">
           <img src="https://img.shields.io/badge/View%20Repository%20➔-090D16?style=for-the-badge&logo=github&logoColor=38BDF8&labelColor=131A2B" alt="Repo" />
         </a>
       </p>
@@ -400,7 +400,7 @@ With deep expertise spanning modern JavaScript, React 19, Next.js 15, Python, an
         <b>✦ UI Sandbox:</b> Check out <a href="https://github.com/abunayem04/Practice-work"><b>Practice-work</b></a> for frontend explorations.
       </p>
       <p>
-        <a href="https://github.com/abunayem04?tab=repositories" target="_blank">
+        <a href="https://github.com/devabunayemabunayem?tab=repositories" target="_blank">
           <img src="https://img.shields.io/badge/Explore%20All%20Repositories%20%E2%9E%94-090D16?style=for-the-badge&logo=github&logoColor=38BDF8&labelColor=131A2B" alt="All Repos" />
         </a>
       </p>
@@ -472,7 +472,7 @@ With deep expertise spanning modern JavaScript, React 19, Next.js 15, Python, an
         </a>
       </td>
       <td align="center">
-        <a href="https://www.linkedin.com/in/nayem2004/" target="_blank">
+        <a href="https://www.linkedin.com/in/devabunayem/" target="_blank">
           <img src="https://img.shields.io/badge/LINKEDIN-Abu%20Nayem-090D16?style=for-the-badge&logo=linkedin&logoColor=60A5FA&labelColor=131A2B" alt="LinkedIn" />
         </a>
       </td>
@@ -489,7 +489,7 @@ With deep expertise spanning modern JavaScript, React 19, Next.js 15, Python, an
         </a>
       </td>
       <td align="center">
-        <a href="https://www.facebook.com/abunayem04" target="_blank">
+        <a href="https://www.facebook.com/devabunayem" target="_blank">
           <img src="https://img.shields.io/badge/FACEBOOK-abunayem04-090D16?style=for-the-badge&logo=facebook&logoColor=818CF8&labelColor=131A2B" alt="Facebook" />
         </a>
       </td>
